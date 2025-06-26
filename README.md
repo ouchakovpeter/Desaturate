@@ -1,8 +1,9 @@
 # Desaturate for 1.21.4
 ---
+
 This Texture Pack changes every dyeble block into its pre-1.12 variants  
-   
 Works best with optifine, which is needed for banners and pet collars to have the old colors
+
 ---
 ## Changes
 - Wool
