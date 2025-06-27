@@ -1,6 +1,6 @@
 {
   "pack": {
     "pack_format": 46,
-    "description": "desc"
+    "description": "Reverts all dyeble colors back to their pre-1.12 varients"
   }
 }

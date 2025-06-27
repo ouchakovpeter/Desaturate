@@ -19,9 +19,11 @@ Currently only for 1.21.4.
 - Terrecota
 - Glazed Terrecota
 - Pet Collars
+- Candles & Their Items
+- Shulker Boxes
 ---
 ## Before & After
 ![2025-06-26_14 07 03](https://github.com/user-attachments/assets/d9f5169e-0408-428c-979d-60ea3f04ca00)![2025-06-26_14 07 12](https://github.com/user-attachments/assets/b7488f7f-4fbb-4269-9b75-44bfb70cc4fe)
 ---
-Currently Unfinished, Shulker Boxes and Candles & Candle items are yet to be changed.
+Currently Unfinished: Bundles are yet to be changed.
 
