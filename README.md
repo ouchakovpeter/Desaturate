@@ -23,9 +23,8 @@ Currently only for 1.21.4.
 - Shulker Boxes
 ---
 ## Before & After
-| ![2025-06-27_12 12 07](https://github.com/user-attachments/assets/90b5bea5-7652-4c05-b494-2ffe6866ca58) 
- | ![2025-06-27_12 12 16](https://github.com/user-attachments/assets/00c3459b-828f-4a0f-86fe-3606d1b7e720)
- |
+![2025-06-27_12 12 16](https://github.com/user-attachments/assets/5eeced38-4baa-4443-997b-06308c9f3686)
+![2025-06-27_12 12 07](https://github.com/user-attachments/assets/8469311e-d62b-477f-aea8-e9599b31f387)
 ---
 Currently Unfinished: Bundles are yet to be changed.
 
