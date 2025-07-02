@@ -21,6 +21,7 @@ Currently only for 1.21.4.
 - Pet Collars
 - Candles & Their Items
 - Shulker Boxes
+- Sheep Colors
 ---
 ## Before & After
 ![2025-06-27_12 12 16](https://github.com/user-attachments/assets/5eeced38-4baa-4443-997b-06308c9f3686)
